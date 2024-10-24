@@ -16,7 +16,7 @@ document.getElementById('generate').addEventListener('click', async () => {
             inputs: inputText,
         }, {
             headers: {
-                'Authorization': 'Bearer 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' // Replace with your Hugging Face API key
+                'Authorization': 'eARoPcozlVwTksGPUXvvEYXILdcXEMAcdY' // Replace with your Hugging Face API key
             },
             responseType: 'blob',
         });
